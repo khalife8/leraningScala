@@ -1,0 +1,2 @@
+# leraningScala
+scala leraning
